@@ -5,6 +5,7 @@
 	background-color: #800080;
 	border: 25px solid #0000ff;
 	border-radius: 50%;
+	margin: 25px;
 }
 #middle{
 	height: 200px;
@@ -12,9 +13,7 @@
 	background-color: #008000;
 	border: 25px solid #ffff00;
 	border-radius: 50%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	margin: 25px;
 }
 #outer{
 	width: 300px;
@@ -22,7 +21,4 @@
 	background-color: #ffa500;
 	border: 25px solid #ff0000;
 	border-radius: 50%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
 }

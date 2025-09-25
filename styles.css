@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+#inner{
+	height: 200px;
+	width: 200px;
+	background-color: #ffff00;
+	border-radius: 50%;
+}
+#middle{
+	height: 250px;
+	width: 250px;
+	background-color: #ffa500;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#outer{
+	height: 300px;
+	width: 300px;
+	background-color: #ff0000;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
